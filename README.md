@@ -15,7 +15,7 @@ Day & Age AI Gurus workspace access is currently invite-only.
 
 This plugin is listed in Obsidian's Community Plugins directory.
 
-Once approved, open Settings → Community plugins, search for
+To install, open Settings → Community plugins, search for
 "Day & Age AI Gurus", install it, and enable it.
 
 For manual testing on a device where you can access your vault's plugin
