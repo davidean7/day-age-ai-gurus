@@ -1,4 +1,4 @@
-# Day & Age AI Gurus
+# # Day and Age AI Gurus
 
 Sync Markdown notes from selected Obsidian folders with your Day & Age AI Gurus account.
 
