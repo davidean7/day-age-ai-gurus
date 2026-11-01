@@ -1,4 +1,4 @@
-# # Day and Age AI Gurus
+# Day and Age AI Gurus
 
 Sync Markdown notes from selected Obsidian folders with your Day & Age AI Gurus account.
 
@@ -13,7 +13,7 @@ Day & Age AI Gurus workspace access is currently invite-only.
 
 ## Installation
 
-This plugin is not yet listed in Obsidian's Community Plugins directory.
+This plugin is listed in Obsidian's Community Plugins directory.
 
 Once approved, open Settings → Community plugins, search for
 "Day & Age AI Gurus", install it, and enable it.
