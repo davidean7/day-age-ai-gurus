@@ -16,7 +16,7 @@ The script prints the ZIP path and SHA-256 checksum. Use the package matching th
 
 1. Unzip the package into your vault at `.obsidian/plugins/day-age-ai-gurus/`. The folder must contain `manifest.json` and `main.js` directly.
 2. In Obsidian, open **Settings → Community plugins**, turn off Restricted mode if prompted, and enable **Day & Age AI Gurus**.
-3. Open the plugin settings and enter your Day & Age AI Gurus app's HTTPS base URL.
+3. Open the plugin settings and enter your Day & Age AI Gurus app's HTTPS base URL. (https://datechguru.app)
 4. In the app, open **Integrations → Obsidian → Create pairing code**. Enter the one-time code in the plugin and tap **Connect** within ten minutes.
 5. Choose folders to sync, or use **Select all** to include every folder and Markdown notes stored directly in the vault root. The settings page shows the number of notes stored in the cloud. The server enforces the selection for every sync request.
 
