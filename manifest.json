@@ -1,9 +1,0 @@
-{
-  "id": "day-age-ai-gurus",
-  "name": "Day & Age AI Gurus",
-  "version": "0.2.0",
-  "minAppVersion": "1.5.0",
-  "description": "Sync selected Obsidian folders with Day & Age AI Gurus.",
-  "author": "Day & Age",
-  "isDesktopOnly": false
-}
