@@ -1,9 +1,0 @@
-{
-  "id": "day-age-ai-gurus",
-  "name": "Day and Age AI Gurus",
-  "version": "0.2.4",
-  "minAppVersion": "1.5.0",
-  "description": "Sync selected folders with Day and Age AI Gurus.",
-  "author": "Day & Age Tech",
-  "isDesktopOnly": false
-}
